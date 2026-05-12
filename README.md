@@ -1,4 +1,4 @@
-# Interactive Orchestra
+# Interactive Orchestra v1
 
 ## Overview
 This project transforms an unused decorative wall piece into an interactive musical interface. The object, which features multiple musical instruments, is modified with copper touch sensors so that each instrument can be played through physical interaction.
